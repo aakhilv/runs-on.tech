@@ -4,6 +4,7 @@
 }
 
 body {
+  font-family: Helvetica;
   color: #18181b;
   background: #fafafa;
 }
@@ -19,7 +20,7 @@ a:hover {
 header {
   font-family: Consolas;
   text-align: center;
-  padding: 2.5em;
+  padding: 5em 1.5em;
   color: #16a34a;
   background: #05150b;
 }
