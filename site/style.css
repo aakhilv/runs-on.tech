@@ -1,1 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
 
+body {
+  color: #18181b;
+  background: #fafafa;
+}
+
+a {
+  color: #16a34a;
+}
+
+a:hover {
+  color: #15803d;
+}
+
+header img {
+  width: 100%;
+  display: block;
+}
+
+main {
+  margin: 2.5em auto;
+  width: 75%;
+}
+
+footer {
+  text-align: center;
+  padding: 1.5em;
+  background: #d4d4d8;
+  color: #71717a;
+}
