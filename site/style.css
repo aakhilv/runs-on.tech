@@ -16,9 +16,11 @@ a:hover {
   color: #15803d;
 }
 
-header img {
-  width: 100%;
-  display: block;
+header {
+  text-align: center;
+  padding: 2.5em;
+  color: #16a34a;
+  background: #05150b;
 }
 
 main {
@@ -29,6 +31,6 @@ main {
 footer {
   text-align: center;
   padding: 1.5em;
-  background: #d4d4d8;
   color: #71717a;
+  background: #d4d4d8;
 }
