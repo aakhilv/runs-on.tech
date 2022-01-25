@@ -30,7 +30,7 @@ hr {
 
 .code {
   display: inline-block;
-  font-family: Consolas;
+  font-family: Consolas, monospace;
   padding: 0.15em;
   margin: 0.15em;
   border-radius: 0.25em;
@@ -39,7 +39,7 @@ hr {
 }
 
 header {
-  font-family: Consolas;
+  font-family: Consolas, monospace;
   text-align: center;
   padding: 4em 1.5em;
   color: #16a34a;
