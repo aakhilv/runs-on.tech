@@ -12,7 +12,7 @@ Free `runs-on.tech` subdomains for personal sites, open-source projects, and mor
 
 ## Acknowledgements
 
-Special thanks to [Cloudflare ☁️](https://cloudflare.com) and [.TECH Domains ⚙️](https://get.tech) for powering this service.
+Special thanks to [Cloudflare](https://cloudflare.com) and [.TECH Domains](https://get.tech) for powering this service.
 
 ---
 
