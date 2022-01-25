@@ -9,14 +9,6 @@ body {
   background: #fafafa;
 }
 
-a {
-  color: #16a34a;
-}
-
-a:hover {
-  color: #15803d;
-}
-
 header {
   font-family: Consolas;
   text-align: center;
@@ -33,6 +25,30 @@ main {
 footer {
   text-align: center;
   padding: 1.5em;
+  color: #71717a;
+  background: #d4d4d8;
+}
+
+a {
+  color: #16a34a;
+}
+
+a:hover {
+  color: #15803d;
+}
+
+p,
+h2,
+li {
+  margin: 0.75em 0;
+}
+
+.code {
+  display: inline-block;
+  font-family: Consolas;
+  padding: 0.15em;
+  margin: 0.15em;
+  border-radius: 0.25em;
   color: #71717a;
   background: #d4d4d8;
 }
