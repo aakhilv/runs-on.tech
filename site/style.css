@@ -19,8 +19,13 @@ a:hover {
 
 p,
 h2,
-li {
+li,
+hr {
   margin: 0.75em 0;
+}
+
+hr {
+  border: 1px solid #d4d4d8;
 }
 
 .code {
