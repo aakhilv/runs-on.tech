@@ -28,6 +28,11 @@ hr {
   border: 1px solid #d4d4d8;
 }
 
+img {
+  display: block;
+  max-width: 100%;
+}
+
 .code {
   display: inline-block;
   font-family: Consolas, monospace;
