@@ -65,6 +65,10 @@ main {
   width: 75%;
 }
 
+p img {
+  display: inline-block;
+}
+
 footer {
   text-align: center;
   padding: 1.5em;
