@@ -9,26 +9,6 @@ body {
   background: #fafafa;
 }
 
-header {
-  font-family: Consolas;
-  text-align: center;
-  padding: 3.5em 1.5em;
-  color: #16a34a;
-  background: #05150b;
-}
-
-main {
-  margin: 2.5em auto;
-  width: 75%;
-}
-
-footer {
-  text-align: center;
-  padding: 1.5em;
-  color: #71717a;
-  background: #d4d4d8;
-}
-
 a {
   color: #16a34a;
 }
@@ -49,6 +29,35 @@ li {
   padding: 0.15em;
   margin: 0.15em;
   border-radius: 0.25em;
+  color: #71717a;
+  background: #d4d4d8;
+}
+
+header {
+  font-family: Consolas;
+  text-align: center;
+  padding: 3.5em 1.5em;
+  color: #16a34a;
+  background: #05150b;
+}
+
+header a {
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: none;
+  color: #16a34a;
+}
+
+main {
+  margin: 2.5em auto;
+  width: 75%;
+}
+
+footer {
+  text-align: center;
+  padding: 1.5em;
   color: #71717a;
   background: #d4d4d8;
 }
