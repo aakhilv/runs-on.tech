@@ -21,7 +21,7 @@ p,
 h2,
 li,
 hr {
-  margin: 0.75em 0;
+  margin: 1em 0;
 }
 
 hr {
@@ -41,7 +41,7 @@ hr {
 header {
   font-family: Consolas;
   text-align: center;
-  padding: 3.5em 1.5em;
+  padding: 4em 1.5em;
   color: #16a34a;
   background: #05150b;
 }
@@ -56,7 +56,7 @@ header a:hover {
 }
 
 main {
-  margin: 2.5em auto;
+  margin: 3em auto;
   width: 75%;
 }
 
