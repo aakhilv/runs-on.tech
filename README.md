@@ -14,10 +14,4 @@ Free `runs-on.tech` subdomains for personal sites, open-source projects, and mor
 
 Special thanks to [Cloudflare ☁️](https://cloudflare.com) and [.TECH Domains ⚙️](https://get.tech) for powering this service.
 
-## Similar Services
-
-* [js.org](https://github.com/js-org/js.org)
-* [is-a.dev](https://github.com/is-a-dev/register)
-* [thedev.id](https://github.com/fransallen/thedev.id)
-* [js.cool](https://github.com/js-cool/js.cool)
-* [mod.land](https://github.com/denosaurs/mod.land)
+**A few similar services worth checking out include [js.org](https://github.com/js-org/js.org), [is-a.dev](https://github.com/is-a-dev/register), [thedev.id](https://github.com/fransallen/thedev.id), [js.cool](https://github.com/js-cool/js.cool), and [mod.land](https://github.com/denosaurs/mod.land)** ⭐
