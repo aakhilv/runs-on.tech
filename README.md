@@ -1,5 +1,7 @@
 [![runs-on.tech](https://runs-on.tech/site/banner.png)](https://runs-on.tech)
 
+[![Pull Requests](https://img.shields.io/github/issues-pr-raw/aakhilv/runs-on.tech?color=16a34a&label=Pull%20Requests&style=flat-square)](https://github.com/aakhilv/runs-on.tech/pulls) [![Contributors](https://img.shields.io/github/contributors/aakhilv/runs-on.tech?color=16a34a&label=Contributors&style=flat-square)](https://github.com/aakhilv/runs-on.tech/graphs/contributors) [![Commit Activity](https://img.shields.io/github/commit-activity/m/aakhilv/runs-on.tech?color=16a34a&label=Commit%20Activity&style=flat-square)](https://github.com/aakhilv/runs-on.tech/graphs/commit-activity)
+
 Free `runs-on.tech` subdomains for personal sites, open-source projects, and more.
 
 ## Registration Process
