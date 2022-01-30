@@ -9,7 +9,7 @@ Free `runs-on.tech` subdomains for personal sites, open-source projects, and mor
 1. Go to the [`subdomains.json`](https://github.com/aakhilv/runs-on.tech/blob/main/subdomains.json) file and click the pencil icon (✏️) to edit the file.
 2. Add your desired subdomain and CNAME record to the file in its alphabetical spot with the following format: `"your-subdomain": "cname-record.example.com"`.
 3. Create a [pull request](https://github.com/aakhilv/runs-on.tech/pulls) from your fork and fill out the template provided as shown by the example below.
-![Example Pull Request](https://user-images.githubusercontent.com/65052071/151066214-ca517091-a316-42b9-9712-b3d126e46564.png)
+![Example Pull Request](https://user-images.githubusercontent.com/65052071/151685693-d7b67ed6-f70b-484d-9a42-449d5938b239.png)
 4. Wait for the pull request to be reviewed, and keep an eye out for any updates to your pull request.
 5. Once all goes well, your subdomain should be available at [your-subdomain.runs-on.tech](https://your-subdomain.runs-on.tech). 🎉
 
