@@ -36,7 +36,7 @@ img {
 .code {
   display: inline-block;
   font-family: Consolas, monospace;
-  padding: 0.15em;
+  padding: 0.1em 0.15em;
   border-radius: 0.25em;
   color: #71717a;
   background: #d4d4d8;
