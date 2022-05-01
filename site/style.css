@@ -87,6 +87,10 @@ p img {
   background: var(--lgray);
 }
 
+.code a {
+  line-height: normal;
+}
+
 footer {
   text-align: center;
   padding: 1.5em;
