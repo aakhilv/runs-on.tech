@@ -1,18 +1,17 @@
 [![runs-on.tech](https://runs-on.tech/site/banner.png)](https://runs-on.tech)
 
-[![Pull Requests](https://img.shields.io/github/issues-pr-raw/aakhilv/runs-on.tech?color=16a34a&label=Pull%20Requests&style=flat-square)](https://github.com/aakhilv/runs-on.tech/pulls) [![Contributors](https://img.shields.io/github/contributors/aakhilv/runs-on.tech?color=16a34a&label=Contributors&style=flat-square)](https://github.com/aakhilv/runs-on.tech/graphs/contributors) [![Commit Activity](https://img.shields.io/github/commit-activity/m/aakhilv/runs-on.tech?color=16a34a&label=Commit%20Activity&style=flat-square)](https://github.com/aakhilv/runs-on.tech/graphs/commit-activity)
+[![Issues](https://img.shields.io/github/issues/aakhilv/runs-on.tech?color=16a34a&label=Issues&style=flat-square)](https://github.com/aakhilv/runs-on.tech/issues) [![Contributors](https://img.shields.io/github/contributors/aakhilv/runs-on.tech?color=16a34a&label=Contributors&style=flat-square)](https://github.com/aakhilv/runs-on.tech/graphs/contributors) [![Commit Activity](https://img.shields.io/github/commit-activity/m/aakhilv/runs-on.tech?color=16a34a&label=Commit%20Activity&style=flat-square)](https://github.com/aakhilv/runs-on.tech/graphs/commit-activity)
 
 Free `runs-on.tech` subdomains for personal sites, open-source projects, and more.
 
 ## Registration Process
 
-1. Go to the [`subdomains.json`](https://github.com/aakhilv/runs-on.tech/blob/main/subdomains.json) file and click the pencil icon (✏️) to edit the file.
-2. Add your desired subdomain and CNAME record to the file in its alphabetical spot with the following format: `"your-subdomain": "cname-record.example.com"`.
-3. Create a [pull request](https://github.com/aakhilv/runs-on.tech/pulls) from your fork and fill out the template provided as shown by the example below.
+1. Go to the [`subdomains.csv`](https://github.com/aakhilv/runs-on.tech/blob/main/subdomains.csv) file, open it, and type the subdomain you want in the search bar.
+2. If no results show up, meaning your subdomain hasn't been claimed yet, open up an [issue](https://github.com/aakhilv/runs-on.tech/issues/new) and provide the information shown in the screenshot below.
 
-![Example Pull Request](https://user-images.githubusercontent.com/65052071/151685693-d7b67ed6-f70b-484d-9a42-449d5938b239.png)
+![Example Issue](https://user-images.githubusercontent.com/65052071/166170428-bfb490a5-020c-4d6d-ae8a-ab0b6696b93a.png)
 
-4. Wait for the pull request to be reviewed, and keep an eye out for any updates to your pull request.
+4. Wait for the issue to be reviewed, and keep an eye out for any updates to your issue.
 5. Once all goes well, your subdomain should be available at [your-subdomain.runs-on.tech](https://your-subdomain.runs-on.tech). 🎉
 
 ## Acknowledgements
