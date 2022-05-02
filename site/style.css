@@ -53,6 +53,7 @@ header {
 
 header a,
 header a:hover {
+  color: var(--highlight);
   text-decoration: none;
 }
 
