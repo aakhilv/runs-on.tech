@@ -6,7 +6,7 @@ Free `runs-on.tech` subdomains for personal sites, open-source projects, and mor
 
 ## Registration Process
 
-1. Go to the [`subdomains.csv`](https://github.com/aakhilv/runs-on.tech/blob/main/subdomains.json) file, open it, and type the subdomain you want in the search bar.
+1. Go to the [`subdomains.csv`](https://github.com/aakhilv/runs-on.tech/blob/main/subdomains.csv) file, open it, and type the subdomain you want in the search bar.
 2. If no results show up, meaning your subdomain hasn't been claimed yet, open up an [issue](https://github.com/aakhilv/runs-on.tech/issues/new) and provide the information shown in the screenshot below.
 
 ![Example Issue](https://user-images.githubusercontent.com/65052071/166170428-bfb490a5-020c-4d6d-ae8a-ab0b6696b93a.png)
